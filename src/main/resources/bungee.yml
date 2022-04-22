@@ -1,0 +1,7 @@
+name: zCore
+version: 1.0.0-SNAPSHOT
+author: Rengobli
+website: www.peirleitner.at
+softdepend: [NuVotifier]
+
+main: at.peirleitner.zCore.BungeeMain

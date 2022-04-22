@@ -1,0 +1,23 @@
+# Configuration for zCore version 1.0.0-SNAPSHOT by Rengobli - Bungee
+# Copyright (C) 2022 Markus Peirleitner | https://www.peirleitner.at | All Rights reserved
+maintenance: false
+slots: 32
+motd:
+  1: '&bNayola&f.&3net &8- &7&oUnite with others like you'
+  2: '&8> &7Default MOTD'
+  maintenance: '&cMaintenance&8: &ewww.Nayola.net'
+debug: true
+vote-link: 'https://minecraft-server.eu/vote/index/21E62/{0}'
+teamspeak:
+  host: localhost
+  queryport: 10011
+  username: serveradmin
+  password: passy
+  virtual-server-id: 1
+  ranks:
+    OWNER: 10
+    ADMIN: 11
+guild:
+  create:
+    cost: 1000
+    motd: '&7Guild default MOTD'

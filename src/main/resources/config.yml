@@ -1,0 +1,3 @@
+# Configuration for zCore version 1.0.0-SNAPSHOT by Rengobli - Spigot
+# Copyright (C) 2022 Markus Peirleitner | https://www.peirleitner.at | All Rights reserved
+update-playerdata-on-player-join-and-quit: false # Only enable this if you are not running a Network (Proxy)

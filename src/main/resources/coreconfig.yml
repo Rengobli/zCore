@@ -1,0 +1,6 @@
+# Configuration for zCore version 1.0.0-SNAPSHOT by Rengobli - Core
+# Copyright (C) 2022 Markus Peirleitner | https://www.peirleitner.at | All Rights reserved
+cache: false # Enable this to locally cache PlayerData
+default-language: ENGLISH # Default Language that will be assigned to a Player on registering
+block-vpn: false # If enabled, the System will attempt to block Proxy Connections
+debug: false # Enable to display Debug Messages
